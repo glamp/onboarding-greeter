@@ -1,4 +1,5 @@
 # stdin reader and writer
+https://github.com/glamp/onboarding-greeter
 
 Reads from stdin, then prints to stdout.
 
